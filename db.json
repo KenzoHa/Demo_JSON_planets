@@ -1,0 +1,52 @@
+{
+    "planets": [
+        {
+            "name": "Mercury",
+            "diameter in km": 4879,
+            "gravity": 0.38,
+            "known moons": 0
+        },
+        {
+            "name": "Venus",
+            "diameter in km": 12104,
+            "gravity": 0.91,
+            "known moons": 0
+        },
+        {
+            "name": "Earth",
+            "diameter in km": 12742,
+            "gravity": 1,
+            "known moons": 1
+        },
+        {
+            "name": "Mars",
+            "diameter in km": 6779,
+            "gravity": 0.38,
+            "known moons": 2
+        },
+        {
+            "name": "Jupiter",
+            "diameter in km": 139822,
+            "gravity": 2.36,
+            "known moons": 95
+        },
+        {
+            "name": "Saturn",
+            "diameter in km": 120536,
+            "gravity": 0.92,
+            "known moons": 146
+        },
+        {
+            "name": "Uranus",
+            "diameter in km": 50724,
+            "gravity": 0.89,
+            "known moons": 27
+        },
+        {
+            "name": "Neptune",
+            "diameter in km": 49244,
+            "gravity": 1.12,
+            "known moons": 14
+        }
+    ]
+}
